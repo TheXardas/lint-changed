@@ -10,4 +10,4 @@ https://github.com/okonet/lint-staged
 The only difference - is that this package also lints files, that were modified, but not yet added to commit.
 Which is realized by using changed-git-files, instead of staged-git-files package.
 
-This makes it useful when you want to lint your files before event.
+This makes it useful when you want to lint your files before even trying to commit.
